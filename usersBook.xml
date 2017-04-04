@@ -1,12 +1,14 @@
-<?xml version='1.0' encoding="utf-8"?>
-<!DOCTYPE book>
-<book xmlns="http://docbook.org/ns/docbook"
-      xmlns:xi="http://www.w3.org/2001/XInclude" version="5.0">
-  <title>Advanced Gtk+ Sequencer</title>
-
-  <appendix xmlns="http://docbook.org/ns/docbook" version="5.0">
-    <title>Resources</title>
-     <para>
-     </para>
-  </appendix>
+<book
+xmlns="http://docbook.org/ns/docbook"
+xmlns:xi="http://www.w3.org/2001/XInclude"
+version="5.0"
+>
+<appendix
+xmlns="http://docbook.org/ns/docbook"
+version="5.0"
+>
+<para>
+</para>
+</appendix>
 </book>
+
