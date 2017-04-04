@@ -1,14 +1,7 @@
-<book
-xmlns="http://docbook.org/ns/docbook"
-xmlns:xi="http://www.w3.org/2001/XInclude"
-version="5.0"
->
-<appendix
-xmlns="http://docbook.org/ns/docbook"
-version="5.0"
->
+<?xml version="1.0"?>
+<book xmlns="http://docbook.org/ns/docbook">
+<appendix>
 <para>
 </para>
 </appendix>
 </book>
-
