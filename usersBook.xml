@@ -5,6 +5,10 @@
       xmlns:xi="http://www.w3.org/2001/XInclude" version="5.0">
   <title>Advanced Gtk+ Sequencer</title>
 
-  <xi:include href="appb.xml"/>
-
+  <appendix xmlns="http://docbook.org/ns/docbook" version="5.0">
+    <title>Resources</title>
+     <para>
+       <!-- TODO:JK: write some content -->
+     </para>
+  </appendix>
 </book>
