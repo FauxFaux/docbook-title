@@ -32,8 +32,6 @@
     <para>This book is dedicated to my father &#8224;Hans-Jörg Krähemann.</para>
   </dedication>
 
-  <xi:include href="&bookpath;/usersBook/preface.xml"/>
-  <xi:include href="&bookpath;/appa.xml"/>
   <xi:include href="&bookpath;/usersBook/appb.xml"/>
 
 </book>
